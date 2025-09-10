@@ -1,31 +1,101 @@
-html {
-  font-size: 14px;
-}
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Zeyada&family=Open+Sans:wght@400;600&display=swap');
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+/* Define local fonts */
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('/fonts/RobotoCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
 }
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+@font-face {
+    font-family: 'Zeyada';
+    src: url('/fonts/Zeyada.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
 }
-
-html {
-  position: relative;
-  min-height: 100%;
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/OpenSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
 }
 
 body {
-  margin-bottom: 60px;
+    background-color: #E0E1DD; /* Off-white background for brightness */
+    font-family: 'Open Sans', Arial, sans-serif; /* Standard sans-serif */
+    color: #1B263B; /* Dark blue-gray text for contrast */
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+h1, h2 {
+    font-family: 'Roboto Condensed', sans-serif; /* Condensed font for headings */
+    color: #0D1B2A; /* Dark navy for high contrast */
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
+.btn-active {
+    background-color: #415A77; /* Mid blue-gray */
+    color: #E0E1DD; /* Off-white text for readability */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.btn-active:hover {
+    background-color: #1B263B; /* Dark blue-gray */
+    color: #E0E1DD;
+}
+
+.btn-disabled {
+    background-color: #778DA9; /* Light blue-gray */
+    color: #0D1B2A; /* Dark navy for contrast */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    pointer-events: none;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.encouragement {
+    font-family: 'Zeyada', cursive; /* Zorro-like font for encouragement message */
+    font-style: normal; /* Override italic for clarity */
+    color: #415A77; /* Mid blue-gray for distinction */
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+
+.container {
+    max-width: 600px;
+    background-color: #E0E1DD; /* Match body background */
+    padding: 20px;
+}
+
+.form-control, .form-select {
+    background-color: #FFFFFF; /* White form fields for clarity */
+    color: #0D1B2A; /* Dark navy text */
+    border: 1px solid #778DA9; /* Light blue-gray border */
+}
+
+.form-label {
+    color: #1B263B; /* Dark blue-gray for form labels */
+}
+
+.alert-success {
+    background-color: #778DA9; /* Light blue-gray */
+    color: #1B263B; /* Dark blue-gray for readability */
+    border-color: #415A77; /* Mid blue-gray */
+}
+
+.text-danger {
+    color: #1B263B; /* Dark blue-gray for validation errors */
+}
+
+@media (max-width: 576px) {
+    .container {
+        padding: 10px;
+    }
+    .btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
 }

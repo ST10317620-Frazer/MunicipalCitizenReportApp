@@ -351,10 +351,10 @@
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/MunicipalCitizenReportApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/MunicipalCitizenReportApp.RazorAssemblyInfo.cache
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/MunicipalCitizenReportApp.RazorAssemblyInfo.cs
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/MunicipalCitizenReportApp.sourcelink.json
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/scopedcss/bundle/MunicipalCitizenReportApp.styles.css
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/scopedcss/projectbundle/MunicipalCitizenReportApp.bundle.scp.css
-/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/j7h8g54dl7-b9sayid5wm.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/6mihhxb3gq-61n19gt1b8.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/jvyklfo8je-xtxxf3hu2r.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/sx2e8f7a8c-bqjiyaj88i.gz
@@ -416,6 +416,7 @@
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/r73wclyhae-muycvpuwrr.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/padpje3gus-87fc7y1x7t.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/cdfbialaj2-mlv21k5csn.gz
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/j7h8g54dl7-91o6q6ntx3.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/6v0qumipsl-lybm3e5fqi.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/compressed/3xz1my503g-lybm3e5fqi.gz
 /Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net9.0/staticwebassets.build.json

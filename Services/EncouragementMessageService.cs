@@ -11,8 +11,8 @@ namespace MunicipalCitizenReportApp.Services
     {
         private readonly string[] _messages = new[]
         {
-            "Great job reporting issues to improve our community!",
             "Your input helps us serve you better!",
+            "Great job reporting issues to improve our community!",
             "Thank you for being an active citizen!"
         };
 
