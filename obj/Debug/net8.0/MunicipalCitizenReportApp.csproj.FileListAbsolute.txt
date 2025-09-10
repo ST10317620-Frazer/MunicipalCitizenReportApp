@@ -1,0 +1,9 @@
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.csproj.AssemblyReference.cache
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.AssemblyInfoInputs.cache
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.AssemblyInfo.cs
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.csproj.CoreCompileInputs.cache
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.RazorAssemblyInfo.cache
+/Users/parisfrazer/PROG7312/MunicipalCitizenReportApp/obj/Debug/net8.0/MunicipalCitizenReportApp.RazorAssemblyInfo.cs
